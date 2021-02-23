@@ -1,0 +1,32 @@
+body{
+  font-size: 16px;
+  color: #333;
+  text-align: center;
+}
+
+label {
+  display: block;
+  font-size: 14px;
+  font-family: 'Arial', sans-serif;
+  font-weight: bold;
+  margin-top: 15px;
+  margin-bottom: 5px;
+}
+
+button {
+  width: 175px;
+  height: 30px;
+  margin:  15px 0 10px;
+  font-weight: bold;
+}
+
+.textInput {
+  height: 25px;
+}
+
+.error {
+  color: rgb(233, 0, 0);
+  font-family: 'Arial', sans-serif;
+  margin: 7px 0 15px;
+  font-size: 12px;
+}
